@@ -129,48 +129,31 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<div align="center">
 
-----	
+<a href="https://github.com/JAlavindu">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAlavindu&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/JAlavindu">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAlavindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+</a>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BasuruLokuge&theme=tokyonight_duo" alt="BasuruLokuge" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="BasuruLokuge's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BasuruLokuge&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BasuruLokuge&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="BasuruLokuge" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JAlavindu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<br/>
 
-----
-	
-[![BasuruLokuge's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BasuruLokuge&theme=github	)](https://github.com/BasuruLokuge/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAlavindu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" />
 
- 
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<br/>
 
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/BasuruLokuge/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	
-  </p>
+<img src="https://github-profile-trophy.vercel.app/?username=JAlavindu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
 </div>
-</details>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%" />
+</div>
 
 </br></br>
