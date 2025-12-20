@@ -131,29 +131,24 @@
 
 <div align="center">
 
-<a href="https://github.com/JAlavindu">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAlavindu&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/JAlavindu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAlavindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+<a href="https://github.com/BasuruLokuge">
+  <img src="https://github-readme-stats.vercel.app/api?username=BasuruLokuge&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub Stats" />
 </a>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JAlavindu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAlavindu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" />
+<a href="https://github.com/BasuruLokuge">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasuruLokuge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+</a>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JAlavindu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BasuruLokuge&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BasuruLokuge&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" />
+
+<br/>
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%" />
-</div>
-
-</br></br>
+</br>
