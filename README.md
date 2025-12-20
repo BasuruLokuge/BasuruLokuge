@@ -82,7 +82,18 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img alt="mysql" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+	&emsp;
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-%2300488B.svg?style=plastic&logo=apache-airflow&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=plastic&logo=apache-spark&logoColor=white"></a>
+	
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
