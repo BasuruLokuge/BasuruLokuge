@@ -137,11 +137,13 @@
 
 <!-- <a href="https://github.com/BasuruLokuge">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasuruLokuge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&hide=none" />
-</a> -->
+</a> 
 
 <a href="https://github.com/BasuruLokuge">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasuruLokuge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
-</a>
+</a> -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BasuruLokuge&layout=compact&theme=github_dark)
 
 <br/>
 
