@@ -132,7 +132,7 @@
 <div align="center">
 
 <a href="https://github.com/BasuruLokuge">
-  <img src="https://github-readme-stats.vercel.app/api?username=BasuruLokuge&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BasuruLokuge&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub Stats"/>
 </a>
 
 <!-- <a href="https://github.com/BasuruLokuge">
